@@ -1,0 +1,4 @@
+-r base.txt
+
+ipython==8.*
+django-extensions==3.*
